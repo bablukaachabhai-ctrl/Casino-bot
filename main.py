@@ -1,7 +1,7 @@
 import os
 
-TOKEN = os.getenv("MTQ1NjI3NDQzMzY0MjU5NDQ4Mg.GeOI7R.-J1b5izwu10HqJmUNNXj3Fnfy3JDhs86CsbPh0")
-OWNER_ID = int(os.getenv("1390832712193019975"))
+TOKEN =("MTQ1NjI3NDQzMzY0MjU5NDQ4Mg.GeOI7R.-J1b5izwu10HqJmUNNXj3Fnfy3JDhs86CsbPh0")
+OWNER_ID =1390832712193019975
 import discord
 from discord.ext import commands, tasks
 import json
